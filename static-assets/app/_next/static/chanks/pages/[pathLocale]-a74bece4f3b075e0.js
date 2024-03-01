@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1718],{43095:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/[pathLocale]",function(){return u(30779)}])}},function(n){n.O(0,[5643,8764,9851,603,2918,8439,214,3385,3974,3858,9774,2888,179],function(){return n(n.s=43095)}),_N_E=n.O()}]);
+//# sourceMappingURL=[pathLocale]-a74bece4f3b075e0.js.map
